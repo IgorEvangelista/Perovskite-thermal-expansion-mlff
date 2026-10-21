@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite the associated research article when using this companion analysis."
+title: "Thermal expansion of perovskite oxides with MLFF molecular dynamics"
+authors:
+  - family-names: Evangelista
+    given-names: Igor
+preferred-citation:
+  type: article
+  title: "Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials"
+  authors:
+    - family-names: Evangelista
+      given-names: Igor
+    - family-names: Kiefer
+      given-names: Mathias A.
+    - family-names: Nagle-Cocco
+      given-names: Liam A. V.
+    - family-names: Dzara
+      given-names: Michael J.
+    - family-names: Strange
+      given-names: Nicholas A.
+    - family-names: Bajdich
+      given-names: Michal
+    - family-names: Winther
+      given-names: Kirsten T.
+  journal: PRX Energy
+  doi: 10.1103/xwd4-x84g
+  year: 2026
